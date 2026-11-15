@@ -2,7 +2,7 @@
 
 My entry for Kaggle's [Playground Series S6E11: Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11) (November 2026), as team **Kar-Joe_Ninjas** with my dad Joe.
 
-**Read the notebook on Kaggle:** [kaggle.com/jkaren/code](https://www.kaggle.com/jkaren/code) (it runs there with all charts and outputs).
+**Read the notebook on Kaggle:** [Catching Credit Card Fraud with Small Trees](https://www.kaggle.com/code/jkaren/catching-creditcard-fraud-with-small-trees-kj) (it runs there with all charts and outputs).
 
 ## The problem
 
