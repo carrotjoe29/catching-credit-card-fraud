@@ -1,0 +1,11 @@
+# For running on a laptop. Kaggle notebooks already have all of these.
+numpy
+pandas
+scipy
+scikit-learn>=1.4
+lightgbm
+catboost>=1.2.8
+matplotlib
+# Optional: the neural-network section uses PyTorch if it is installed,
+# and falls back to scikit-learn's MLP if it isn't.
+torch
